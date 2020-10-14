@@ -1,0 +1,26 @@
+
+public class ParOuImpar{
+  public static void main(String[] args){
+    Scanner scanner = new Scanner(System.in);
+    int n = scanner.nextInt();
+    
+    if(n%2==0){
+      System.out.println("É par);
+    else{
+      System.out.println("É impar);
+      }      
+}
+
+public class NovaLinguagem{
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
+
+public class NomeUsuario{
+  public static void main(String[] args) {
+
+    String nome = "Samir";
+    System.out.println(nome);
+  }
+}
